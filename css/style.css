@@ -1,0 +1,49 @@
+/*colors and fonts*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Roboto:wght@300&display=swap');
+  @import url("components/container.css"); 
+  @import url("components/avatar.css"); 
+  @import url("components/button.css"); 
+  @import url("components/banner.css");
+  @import url("components/card.css");
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Roboto:wght@300&display=swap');
+
+
+body {
+	font-family: 'Parisienne' ;
+	font-size: 18px;
+	 background-color: lightpink;
+
+}
+h1,h2,h3 {
+	font-family: 'Parisienne';
+	font-weight: bold;
+}
+
+
+}
+h1 {
+ color: black;
+ font-size: 32px;
+ font-weight: 900;
+}
+h2 {
+ color: black;
+ font-size: 24px;
+ font-weight: lighter;
+ font-weight: 500;
+}
+a {
+	font-family: 'Parisienne';
+ text-decoration: none;
+ color: black;
+ font-weight: 600;
+ font-size: 15px;
+}
+a:hover {
+ color: salmon;
+}
+img { 
+width : 1500px;
+height : auto;
+}
